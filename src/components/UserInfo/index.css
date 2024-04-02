@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.profile-pic {
+  width: 100px;
+  height: 100px;
+}
+.user-container {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+.data- {
+  text-align: center;
+  margin-bottom: 12px;
+}

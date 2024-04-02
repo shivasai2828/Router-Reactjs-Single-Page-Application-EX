@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+* {
+  list-style-type: none;
+}
+.name-with-date-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading {
+  font-size: 26px;
+  font-weight: 500;
+  font-family: roboto;
+}
+.paras {
+  color: #9aa5b1;
+}
+li {
+  padding-left: 0px;
+}
